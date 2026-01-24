@@ -1,0 +1,1 @@
+{"name":"Local: Primes","url":"c:\\Users\\garvi\\OneDrive\\Desktop\\C++\\CodeForces\\Primes.cpp","tests":[{"id":1769238942381,"input":"5","output":"2 3\n"},{"id":1769238955553,"input":"11\n","output":"-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\garvi\\OneDrive\\Desktop\\C++\\CodeForces\\Primes.cpp","group":"local","local":true}
